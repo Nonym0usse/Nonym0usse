@@ -34,6 +34,14 @@ Hi, I'm Cyril from France, living in Marseille 🇫🇷 and Korea 🇰🇷, full
 [![img_contact](./linkedin-light.svg)](https://www.linkedin.com/in/cyril-vella/#gh-light-mode-only)
 [![img_contact](./linkedin-dark.svg)](https://www.linkedin.com/in/cyril-vella/#gh-dark-mode-only)
 
+
+### ⭐ GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonym0usse&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonym0usse&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### My daily routine :
 
 ```mermaid
@@ -42,9 +50,3 @@ Hi, I'm Cyril from France, living in Marseille 🇫🇷 and Korea 🇰🇷, full
       Invest-->Sleep;
       Sleep-->Code;
 ```
-
-### ⭐ GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonym0usse&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonym0usse&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
