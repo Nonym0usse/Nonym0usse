@@ -30,11 +30,11 @@ Bonjour, je suis Cyril! Je vis à Marseille 🇫🇷 et à Séoul 🇰🇷, je s
 
 ### Connect with me:
 
-[![img_contact](./img/globe-light.svg)](https://vella.fr#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://vella.fr#gh-dark-mode-only)
+[![img_contact](./globe-light.svg)](https://vella.fr#gh-light-mode-only)
+[![img_contact](./globe-dark.svg)](https://vella.fr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/cyril-vella/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/cyril-vella/#gh-dark-mode-only)
+[![img_contact](./linkedin-light.svg)](https://www.linkedin.com/in/cyril-vella/#gh-light-mode-only)
+[![img_contact](./linkedin-dark.svg)](https://www.linkedin.com/in/cyril-vella/#gh-dark-mode-only)
 
 ### My daily routine :
 
