@@ -2,8 +2,6 @@
 
 Hi, I'm Cyril from France, living in Marseille 🇫🇷 and Korea 🇰🇷, fullstack web-developper, I am freelancer since 5 years and got a master degree of computer sciences. I really enjoy learning new frameworks and programming languages useful for increasing my productivity like Javascript, React, NodeJS, etc.
 
-Bonjour, je suis Cyril! Je vis à Marseille 🇫🇷 et à Séoul 🇰🇷, je suis développeur web fullstack & freelance depuis quelques années et j'ai un master en informatique en poche. J'adore me former à apprendre de nouveux outils utiles pour augmenter ma productivité tels que Javascript, React, NodeJS, etc.
-
 
 ### Languages and Tools:
 
@@ -47,4 +45,6 @@ Bonjour, je suis Cyril! Je vis à Marseille 🇫🇷 et à Séoul 🇰🇷, je s
 
 ### ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonym0usse&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonym0usse&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonym0usse&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
