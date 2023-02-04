@@ -1,4 +1,4 @@
-# Cyril VELLA 💻
+# Cyril VELLA 
 
 Hi, I'm Cyril from France, living in Marseille 🇫🇷 and Korea 🇰🇷, fullstack web-developper, I am freelancer since 5 years and got a master degree of computer sciences. I really enjoy learning new frameworks and programming languages useful for increasing my productivity like Javascript, React, NodeJS, etc.
 
